@@ -1,0 +1,14 @@
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/bin/Debug/net9.0/MySecondApp
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/bin/Debug/net9.0/MySecondApp.deps.json
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/bin/Debug/net9.0/MySecondApp.runtimeconfig.json
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/bin/Debug/net9.0/MySecondApp.dll
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/bin/Debug/net9.0/MySecondApp.pdb
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/MySecondApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/MySecondApp.AssemblyInfoInputs.cache
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/MySecondApp.AssemblyInfo.cs
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/MySecondApp.csproj.CoreCompileInputs.cache
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/MySecondApp.dll
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/refint/MySecondApp.dll
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/MySecondApp.pdb
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/MySecondApp.genruntimeconfig.cache
+/home/gbertoso/RiderProjects/MySecondApp/MySecondApp/obj/Debug/net9.0/ref/MySecondApp.dll
